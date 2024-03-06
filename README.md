@@ -1,4 +1,6 @@
 # ECE 281 ICE 3: FullAdder with Top Level Design
+## Documentation Statement: No help received on matters of coding. Did use stack exchange to resolve an issue with Github where my file was one behind what was up there and find a away to abort a merge.
+![waveform matching the intended truth table. Mostly green and black](ice2waveform.png)
 
 **Fork** this repo.
 
